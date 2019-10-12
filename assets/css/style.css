@@ -1,0 +1,71 @@
+h1#logo {
+  position: absolute; 
+  margin: 0;
+  padding: 15px;
+  background-color: #4aaaa5;
+  float: left;
+  float: top;
+  color: #ffffff;
+  font-size: 20px;
+  left: 12.5%;
+}
+
+h1 {
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+ul {
+  position: absolute;
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  /* overflow: hidden; */
+  left: 72%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+}
+
+header {
+  float: top;
+  background-color: #ffffff;
+  border-style: solid;
+  border-width: 0px 0px 2px 0px;
+  border-color: #cccccc;
+  padding:0;
+  margin: 0;
+  height:53px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/fishnets-and-hearts.png");
+}
+
+.wrapper {
+  width: 960px;
+  margin: auto;
+  padding: auto;
+  background-color: #ffffff;
+  border-color: #dddddd;
+  border-style: solid;
+  border-width: 1px;
+  margin-top: 25px;
+}
+
+.wrapper {
+  top: -10px;
+  margin-bottom: 0;
+}
+
+.link1:hover {
+  color: yellow;
+}
