@@ -66,6 +66,24 @@ body{
   margin-bottom: 0;
 }
 
-.link1:hover {
-  color: yellow;
+.project-image {
+  display: inline-block;
+  position: relative;
+  text-align: center;
+  color: white;
+  width: 200px;
+  height:200px;
+  margin: 10px;
+}
+
+.project-name {
+  position: absolute;
+  bottom: 25%;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  text-align: center;
+  width: 200px;
+  height: 50px;
+  font-size: 30px;
+  padding-top: 10px;
 }
